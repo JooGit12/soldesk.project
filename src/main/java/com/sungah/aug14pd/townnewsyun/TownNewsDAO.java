@@ -126,9 +126,6 @@ public class TownNewsDAO {
 	    }
 	}
 
-
-	
-	
 	// 게시판 내용 가져오기
 	public void getTownNewsContents(HttpServletRequest req) {
 	    try {
